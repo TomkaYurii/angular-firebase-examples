@@ -8,7 +8,6 @@ import {Observable} from "rxjs";
 
 import {AngularFirestore} from "@angular/fire/compat/firestore";
 
-
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
